@@ -207,7 +207,7 @@ sup {
   top: -0.5em;
 }
 a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
 }
 a:not([href]):not([class]),

@@ -12,3 +12,21 @@ input[type = "search"]{
 i{
     cursor: pointer;
 }
+
+.centered-modal{
+    backdrop-filter: blur(20px);
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    background: #000;
+    z-index: 1000;
+    top: 0px;
+}
+
+main{
+    margin-top: 7em;
+}
