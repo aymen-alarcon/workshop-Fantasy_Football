@@ -1,3 +1,30 @@
-{
-    "name" : "Thibaut Courtois"
-}
+[
+    {
+        "name" : "Thibaut Courtois",
+        "position" : "goalkeeper",
+        "price" : "$6m",
+        "team" : "Real Madrid",
+        "picture" : "assets/img/vinijr.webp"
+    },
+    {
+        "name" : "Carreras",
+        "position" : "defender",
+        "price" : "$5.5m",
+        "team" : "Real Madrid",
+        "picture" : "assets/img/vinijr.webp"
+    },
+    {
+        "name" : "Jude Bellingham",
+        "position" : "midfielder",
+        "price" : "$8m",
+        "team" : "Real Madrid",
+        "picture" : "assets/img/vinijr.webp"
+    },
+    {
+        "name" : "kilyan Mbappe",
+        "position" : "attacker",
+        "price" : "$11m",
+        "team" : "Real Madrid",
+        "picture" : "assets/img/vinijr.webp"
+    }
+]
