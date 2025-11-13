@@ -1,30 +1,130 @@
 [
     {
-        "name" : "Thibaut Courtois",
-        "position" : "goalkeeper",
-        "price" : "$6m",
-        "team" : "Real Madrid",
-        "picture" : "assets/img/vinijr.webp"
+        "id" : 0,
+        "name": "Thibaut Courtois",
+        "position": "goalkeeper",
+        "price": "$6m",
+        "team": "Real Madrid",
+        "picture": "assets/img/courtois.webp"
     },
     {
-        "name" : "Carreras",
-        "position" : "defender",
-        "price" : "$5.5m",
-        "team" : "Real Madrid",
-        "picture" : "assets/img/vinijr.webp"
+        "id" : 1,
+        "name": "Dani Carvajal",
+        "position": "defender",
+        "price": "$5.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/carvajal.webp"
     },
     {
-        "name" : "Jude Bellingham",
-        "position" : "midfielder",
-        "price" : "$8m",
-        "team" : "Real Madrid",
-        "picture" : "assets/img/vinijr.webp"
+        "id" : 2,
+        "name": "Antonio Rüdiger",
+        "position": "defender",
+        "price": "$5.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/rudiger.webp"
     },
     {
-        "name" : "kilyan Mbappe",
-        "position" : "attacker",
-        "price" : "$11m",
-        "team" : "Real Madrid",
-        "picture" : "assets/img/vinijr.webp"
+        "id" : 3,
+        "name": "Ferland Mendy",
+        "position": "defender",
+        "price": "$5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/mendy.webp"
+    },
+    {
+        "id" : 4,
+        "name": "Éder Militão",
+        "position": "defender",
+        "price": "$5.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/militao.webp"
+    },
+    {
+        "id" : 5,
+        "name": "Jude Bellingham",
+        "position": "midfielder",
+        "price": "$8m",
+        "team": "Real Madrid",
+        "picture": "assets/img/bellingham.webp"
+    },
+    {
+        "id" : 6,
+        "name": "Federico Valverde",
+        "position": "midfielder",
+        "price": "$7.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/valverde.webp"
+    },
+    {
+        "id" : 7,
+        "name": "Luka Modrić",
+        "position": "midfielder",
+        "price": "$7m",
+        "team": "Real Madrid",
+        "picture": "assets/img/modric.webp"
+    },
+    {
+        "id" : 8,
+        "name": "Toni Kroos",
+        "position": "midfielder",
+        "price": "$7m",
+        "team": "Real Madrid",
+        "picture": "assets/img/kroos.webp"
+    },
+    {
+        "id" : 9,
+        "name": "Eduardo Camavinga",
+        "position": "midfielder",
+        "price": "$6.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/camavinga.webp"
+    },
+    {
+        "id" : 10,
+        "name": "Aurélien Tchouaméni",
+        "position": "midfielder",
+        "price": "$6.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/tchouameni.webp"
+    },
+    {
+        "id" : 11,
+        "name": "Arda Güler",
+        "position": "midfielder",
+        "price": "$6m",
+        "team": "Real Madrid",
+        "picture": "assets/img/guler.webp"
+    },
+    {
+        "id" : 12,
+        "name": "Vinícius Júnior",
+        "position": "attacker",
+        "price": "$10.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/vinijr.webp"
+    },
+    {
+        "id" : 13,
+        "name": "Rodyrgo Goes",
+        "position": "attacker",
+        "price": "$7.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/vinijr.webp"
+    },
+    {
+        "id" : 14,
+        "name": "Endrick",
+        "position": "attacker",
+        "price": "$6.5m",
+        "team": "Real Madrid",
+        "picture": "assets/img/vinijr.webp"
+    },
+    {
+        "id" : 15,
+        "name": "Kylian Mbappé",
+        "position": "attacker",
+        "price": "$11m",
+        "team": "Real Madrid",
+        "picture": "assets/img/mbappe.webp"
     }
 ]
